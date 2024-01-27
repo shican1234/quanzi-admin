@@ -6,8 +6,8 @@
 - 演示地址：https://bbs.suibianba.cn
 - 后台地址:http://admin.suibianba.cn/
 - 账号/密码:test
-- JAVA仓库地址 https://gitee.com/shican1234/quanzi-java.git
-- UNIAPP仓库地址 https://gitee.com/shican1234/quanzi-uniapp.git
+- JAVA仓库地址 https://github.com/shican1234/quanzi-java.git
+- UNIAPP仓库地址 https://github.com/shican1234/quanzi-uniapp.git
 
 <br>
 
